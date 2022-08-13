@@ -48,7 +48,7 @@ My keyboard:
 
 ![keyboard v3](https://user-images.githubusercontent.com/67878058/184403492-36d28064-54f2-4e7b-86cf-1393223dbe3b.jpg)
 
-My key layout, iterated and improved it around 15 times before settling on this one, I don't used QWERTY, I switched July 2021:
+My key layout, iterated and improved it around 15 times before settling on this one, I don't use QWERTY also, I switched when I got the keyboard July 2021:
 
 ![iris key layout](https://user-images.githubusercontent.com/67878058/184403604-ede8a7af-ae77-49dd-a96d-08ab64a0765f.png)
 
