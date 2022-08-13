@@ -2,7 +2,7 @@ My first about me was a long 20 minute read. This one should be just 5 minutes.
 
 Words that describe me, some might sound like bragging but I don't mean to:
 - Curious - I ask a lot of questions according to others. I also ask google a lot of questions and have gotten pretty good at it by using the search queries. Some things I've realized about questions: 
-  - The world is like a dark cave and questions is the illuminating flashlight. We are all born knowing nothing. We learn by asking.
+  - The world is like a dark cave and questions are lanterns. We are all born knowing nothing. We learn by asking.
   - A good question is like a well directed arrow, it gets to the flesh of the matter. Good questions get you the right information you want or need from someone. Wrong question, wrong answer.
 - Active - In class I ask questions and on the online class discussion boards I ask and answer questions. This isn't just in programming classes but also in others like religion and geographic info systems. When a class is 100 people then it's not realistic for everyone to ask. But in the 20 person classes taught by 3rd/4th year teaching assistants, that's a good time to ask questions. Consistently I've seen very few few students be active and ask questions in the 20 person classes. I like asking questions about something I don't understand or want to understand further.
 - Bold - Natural tendency to speak my mind if I disagree with something. Also helps with asking questions because I believe many are socially nervous to ask questions like raising their hand and speaking in a class of 100 people, but I don't feel that because I want to learn and that's all that matters to me.
