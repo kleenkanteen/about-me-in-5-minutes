@@ -32,7 +32,7 @@ Words that describe me, some might sound like bragging but I don't mean to:
 - History nerd - Subscribed to many high quality channels on youtube, have watched a couple hundred hours so far. Voices of the past is one of my favorites since it has detailed first person accounts.
 - Gamer - favorite shooters: CSGO and Valorant and Rainbox 6 Siege. But nowadays I only play a non shooter, a command and control game game Starcraft 2. Game is 12 years old but still hasn't become boring after 3 years of playing it because of how deep and unpredictable it is. You basically mine minerals and make units and attack the enemy units and base, usually the opponent surrenders when they know they will lose or you will lose. I like games where you have to use tactics and communication to win, all the games mentioned have a heavy element of this. In Starcraft 2, a 2v2 game can be just 10-15 mins, so also time efficient as well as intellectually challenging.
  - Fan of sustainable cities built around mixed density housing and public transportation, especially bike friendly like the Netherlands.
- - Split, grid or columnar mechanical keyboard nerd. I only have 1 keyboard though, no consumerism here since I'm frugal and environmentally conscious.
+ - Split mechanical keyboard nerd. I only have 1 keyboard though, no consumerism here since I'm frugal and environmentally conscious.
  - Ergonomic desk setup 
  - Value humility - Something to learn from anyone, young or old
  - Value understanding and questions before jumping to conclusions and getting offended, which is rife in social media.
