@@ -48,11 +48,15 @@ My keyboard:
 
 ![keyboard v3](https://user-images.githubusercontent.com/67878058/184403492-36d28064-54f2-4e7b-86cf-1393223dbe3b.jpg)
 
-My key layout, iterated and improved it around 15 times before settling on this one:
+My key layout, iterated and improved it around 15 times before settling on this one, I don't used QWERTY, I switched July 2021:
 
 ![iris key layout](https://user-images.githubusercontent.com/67878058/184403604-ede8a7af-ae77-49dd-a96d-08ab64a0765f.png)
 
-There's several points of efficiency in this layout but to keep in short it has 2 layers, the second is activated with the MOD 1 key on the far right when it is held down like shift. Arrows keys under my left thumb is a godsend for programming. My arms don't gets displaced like a normal keyboard, only my fingers move.
+A graph over 5 months of my speed increase when I switched from QWERTY to Colemak-DH:
+
+![colemak 5 month speed increase](https://user-images.githubusercontent.com/67878058/184480416-aa502ad4-9bc6-4de4-800c-afa1444269f0.JPG)
+
+There's several points of efficiency in this layout but to keep in short it has 2 layers, the second is activated with the MOD 1 key on the far right when it is held down like shift. Arrows keys under my left thumb is a treat for programming and even typing in general. My arms don't gets displaced like a normal keyboard, only my fingers move, so it's comfortable.
 
 In depth article of my keyboard, key layout, and shorcuts I use everywhere in case you are interested: [link](https://medium.com/@irisman/the-peak-programming-keyboard-and-key-layout-57cded217236)
 
