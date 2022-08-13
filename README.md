@@ -52,7 +52,7 @@ My key layout, iterated and improved it around 15 times before settling on this 
 
 ![iris key layout](https://user-images.githubusercontent.com/67878058/184403604-ede8a7af-ae77-49dd-a96d-08ab64a0765f.png)
 
-A graph over 5 months of my speed increase when I switched from QWERTY to Colemak-DH:
+A graph over 5 months of my speed increase when I switched from QWERTY to Colemak-DH. What interests me is that I'm able to visualize long term progress:
 
 ![colemak 5 month speed increase](https://user-images.githubusercontent.com/67878058/184480416-aa502ad4-9bc6-4de4-800c-afa1444269f0.JPG)
 
