@@ -1,7 +1,7 @@
 My first about me was a long 20 minute read. This one should be just 5 minutes.
 
 Things that describe me, some might sound like bragging but I don't mean to:
-- My superpower - Everyone has something they excel at. Mines is being resourceful information wise. I know how to navigate the internet, a galaxy of information and sources. I know how to identify the good sources from the bad. I know the right questions to ask and chart my own path to learn or achieve something. Having a intense curiosity and a critical mindset allowed me to hone the skill of guiding myself well. Especially helpful for teaching myself something and finding answers to my questions. 
+- My superpower - Everyone has something they excel at. Mines is being resourceful information wise. I know how to navigate the internet, a galaxy of information and sources. I know how to identify the good sources from the bad. I know the right questions to ask and chart my own path to learn or achieve something. Having a intense curiosity and a critical mindset allowed me to hone the skill of guiding myself well. Especially helpful for teaching myself something.
 
 I can figure out which questions to ask people to get what I am interested in, like to figure out how they think. I make full use of google by using search queries like searching by last year, after a certain year, and exact search. I'm even considering another search engine that allows you to rank exact websites that show up in your search results. When I buy something, I do fast and efficient research of all available products to get the best bang per buck. I did this with my standing desk and chair, optimized for ergonomics, and got great bang per buck.
 
