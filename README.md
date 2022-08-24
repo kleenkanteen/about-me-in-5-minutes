@@ -7,7 +7,7 @@ I can figure out which questions to ask people to get what I am interested in, l
 
 For programming in particular, complexity is overwhelming and there's always decisions and tradeoffs to be made. Being resourceful has been immensely valuable in this regard and in general.
 
-- Improvement mindset: You'll see this in my desk setup, split keyboard, and keyboard layout way below in this article. I'm good with optimizing processes, understanding the key parts of a system then tuning them for a goal. I did this in my dental hygiene to my learning style and got results.
+- Improvement mindset: You'll see this in my desk setup, split keyboard, and keyboard layout way below in this article. I'm good with optimizing processes, understanding the key parts of a system then tuning them for a goal. I did this in many things, such as my dental hygiene to my learning style and got results in both.
 - Curious - I ask a lot of questions according to others. I also ask google a lot of questions and have gotten pretty good at it by using the search queries. Some things I've realized about questions: 
   - The world is like a dark cave and questions are lanterns. We are all born knowing nothing. A great way to leare is simply asking.
   - A good question is like a well directed arrow, it gets to the flesh of the matter. Good questions get you the right information you want or need from someone. Wrong question, wrong answer.
