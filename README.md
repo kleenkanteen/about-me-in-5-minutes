@@ -34,7 +34,7 @@ For programming in particular, complexity is overwhelming when choosing what to 
 
 Here are some stuff about my desk setup which I'm proud of:
 
-My desk looks like:
+My desk:
 
 ![desk setup](https://user-images.githubusercontent.com/67878058/184403471-63ac20ee-eca6-491b-8c44-4a7b575afe99.jpg)
 
