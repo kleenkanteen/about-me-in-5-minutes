@@ -2,6 +2,8 @@
 
 Don't be afraid to voice your disagreement, concerns, and questions. Both within university classes and in my first 1 year internship as a full stack developer, I was vocal and actively asking questions.
 
+--
+
 Everyone has superpowers, things they are especially good at. I have 4: being bold, being resourceful, being curious, and being a debater. Let me explain:
 
 ## Being bold
