@@ -34,7 +34,20 @@ I try to be logically rigorous and provide sources for my claims. I'm passionate
 
 For programming in particular, complexity is overwhelming when choosing what to use to build what idea. There's always tradeoffs to be made. Having those critical analysis skills has been valuable in this regard. I can know what tool to use for what job. And when a tool is overkill for a job. I've learn to start simple and minimize complexity. 
 
-Here are some stuff about my desk setup which I'm proud of:
+## A little more about me
+- Minimalism - quality over quantity. Better friends over more. Conciseness in speech, although as someone who likes detail, it can be hard to speak consisely at times. I aim for less physical possessions. Take Ikea for example. From their products to the outside packaging, everything is beautifully simple. 
+
+I read a quote from someone that said, "If you asked me to characterize my feelings about years spent building software in one phrase, I would have to quote Eugene Meyer's law "It Is Simple To Make Things Complex, But Complex To Make Things Simple". Minimalism and programming is a beautiful marriage.
+
+- Never Bored - I cannot remember the last time I got bored. There is always an article I have on to read list or a thing to learn on my to learn list. The amount of things I want to do and learn outstrip available time.
+
+- Social - In the second half of third year, Dec-Apr 2022, I reached out to 15 random classmates. They were from my programming classes held online on zoom. These classmates were actively asking questions in class or on the class discussion board. I emailed them and set up a video call. I asked to talk about school, programming, and internships. I had interesting 1-2 hour conversations with each one, about the topics mentioned and some random things as well casually. I like asking questions and knowing about people's thoughts and perspectives.
+
+- Organized - I like to extract order from chaos. Biggest example - I make my bed every morning, lol. You'll see more about this in my desk setup below.
+
+- History nerd - Subscribed to many high quality channels on youtube, have watched a couple hundred hours so far. Voices of the past is one of my favorites since it has detailed first person accounts.
+
+## My Desk Setup
 
 My desk:
 
@@ -48,7 +61,7 @@ My key layout, iterated and improved it around 15 times before settling on this 
 
 ![iris key layout](https://user-images.githubusercontent.com/67878058/184403604-ede8a7af-ae77-49dd-a96d-08ab64a0765f.png)
 
-A graph over 5 months of my speed increase when I switched from QWERTY to Colemak-DH. I find it interesting I can see long term progress. The change is gradual so I haven't noticed how I've improved so much, and this graph shows me that clearly:
+A graph over 5 months of my speed increase when I switched from QWERTY to Colemak-DH. I find it interesting I can see long term progress:
 
 ![colemak 5 month speed increase](https://user-images.githubusercontent.com/67878058/184480416-aa502ad4-9bc6-4de4-800c-afa1444269f0.JPG)
 
@@ -66,4 +79,4 @@ This ones about about having the right values. It reminds me of the impact of op
 
 "What makes a winning team, "Many U.S. sports fans agree that the greatest victory in this country’s history was when a group of unknown college kids, led by head coach Herb Brooks, stunned the Soviets 4-3 in the 1980 Winter Olympics and went on to win the gold medal in ice hockey. When asked how he assembled the team, as well as his University of Minnesota hockey teams (Brooks had taken Minnesota from a perpetual doormat to winning three Division 1 National Championships in 7 years), Brooks responded, “The key to my recruiting was that I looked for people first, athletes second. I wanted people with sound value systems because you cannot buy values. You are only as good as your values. I learned early on that you do not put greatness into people…but somehow try to pull it out.” - [https://www.collaborativefund.com/blog/the-locker-room](https://www.collaborativefund.com/blog/the-locker-room)
 
-My first about me was a long 20 minute read. This one should be just 5 minutes. The bulk written in 3 sittings over 3 days, and then 4 times later I edited a bit. I had another draft that was made over a couple weeks in several sittings and 2x longer but this one is more concise thankfully. Writing is an art of iteration, there's always something to cut. Hope you found this interesting.
+My first about me was a long 20 minute read. This one should be just 5 minutes. The bulk written in 3 sittings over 3 days, and then quite a number times later I edited a bit. I had another draft that was made over a couple weeks in several sittings and 2x longer but this one is more concise thankfully. Writing is an art of iteration, there's always something to cut. Hope you found this interesting.
