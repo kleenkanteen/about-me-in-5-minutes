@@ -2,7 +2,7 @@
 
 Don't be afraid to voice your disagreement, concerns, and in asking questions. Fortune favors the bold.
 
-Both within university classes and in my first 1 year internship as a full stack developer (in currently), I'm vocal and constantly asking questions.
+Both within university classes and in my first ever internship (and programming job), as a full stack developer (doing currently), I'm vocal and constantly asking questions.
 
 --
 
