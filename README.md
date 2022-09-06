@@ -28,7 +28,7 @@ I learnt how many complex things worked, like an A/C, engines, toilets, pumps, e
 I enjoy reading interesting articles. Many, many hours spent doing so. There are some intelligent people out there with some great insights to share. You can check out a bunch of good ones I saved in my collection [here](https://github.com/kleenkanteen/interesting-articles).
 
 ## Being a debater
-I enjoyed grade 12 english and I think I did well, my teacher gave me a solid review on my report card. She also made the class interesting so I was challenged. We had the choice to choose a book from a list of books to read, I chose Blink by Malcolm Gladwell, great book, very interesting stories of events and psychology experiments. I enjoyed the class. 
+I enjoyed grade 12 english and I think I did well, my teacher gave me a solid review on my report card. She also made the class interesting so I was challenged. Lots of text analysis and argument making. There was a mock debate part at the end about certain topics and we were given roles. I was the immigration minister of Canada, guy had an interesting story.
 
 If you ask my friends, they'll say I will argue about something if I disagree. This requires boldness also. I'm detailed so I'll disect an argument and belief and question someone about how they got there. On youtube there's something I like watching called Street Epistemology. First search result on youtube of it will bring up the guy who does it.  I don't believe things blindly, I'll ask for sources. 
 
