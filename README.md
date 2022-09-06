@@ -45,9 +45,9 @@ I read a quote from someone that said, "If you asked me to characterize my feeli
 
 - Never Bored - I cannot remember the last time I got bored. There is always an article I have on to read list or a thing to learn on my to learn list. The amount of things I want to do and learn outstrip available time.
 
-- Social - In the second half of third year, Dec-Apr 2022, I reached out to 15 random classmates. They were from my programming classes held online on zoom. These classmates were actively asking questions in class or on the class discussion board. I emailed them and set up a video call. I asked to talk about school, programming, and internships. I had interesting 1-2 hour conversations with each one, about the topics mentioned and some random things as well casually. I like asking questions and knowing about people's thoughts and perspectives.
+- Social - In the second half of third year, Dec-Apr 2022, I reached out to 15 random classmates. They were from my programming classes held online on zoom during the end of the pandemic so I could see their name when they talked in the text chat. These classmates were actively asking questions in class or on the class discussion board outside of class. I emailed them based off their name and arranged up a zoom chat. I asked to talk about school, programming, and internships. I had interesting 1-2 hour conversations with each one, about the topics mentioned and some random things as well casually. I like asking questions and knowing about people's thoughts and perspectives.
 
-- Organized - I like to extract order from chaos. Biggest example - I make my bed every morning, lol. You'll see more about this in my desk setup below.
+- Organized - I like to extract order from chaos. To make things in a logical manner, physically and virtually. Biggest example - I make my bed every morning, lol. You'll see more about this in my desk setup below.
 
 - History nerd - Subscribed to many high quality channels on youtube, have watched a couple hundred hours so far. Voices of the past is one of my favorites since it has detailed first person accounts.
 
