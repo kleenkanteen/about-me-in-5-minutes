@@ -23,7 +23,7 @@ Finally I found a video of someone who explained it properly and it made perfect
 
 I learnt how many complex things worked, like an A/C, engines, toilets, pumps, etc. during high school by watching youtube explanations. One youtube channel called Lesics was especially good at this.
 
-I enjoy reading interesting articles. Many, many hours spent doing so. There are some really smart, interesting people out there with some interesting ideas and insights to share. You can check out a bunch of good ones I shared in my collection [here](https://github.com/kleenkanteen/interesting-articles).
+I enjoy reading interesting articles. Many, many hours spent doing so. There are some intelligent people out there with some great insights to share. You can check out a bunch of good ones I saved in my collection [here](https://github.com/kleenkanteen/interesting-articles).
 
 ## Being a debater
 I enjoyed grade 12 english and I think I did well, my teacher gave me a solid review on my report card. She also made the class interesting so I was challenged. We had the choice to choose a book from a list of books to read, I chose Blink by Malcolm Gladwell, great book, very interesting stories of events and psychology experiments. I enjoyed the class. 
