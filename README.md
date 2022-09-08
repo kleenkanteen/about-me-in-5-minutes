@@ -1,3 +1,5 @@
+I'll do a thorough character analysis of myself in this article.
+
 ## My motto: Be bold, be curious. 
 
 Don't be afraid to voice your disagreement, concerns, and in asking questions. Fortune favors the bold.
