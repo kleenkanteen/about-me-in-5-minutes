@@ -73,7 +73,7 @@ A graph over 5 months of my speed increase when I switched from QWERTY to Colema
 
 There's several points of efficiency in this layout but to keep in short it has 2 layers. The first layer is at the top of the pic and the second is at the bottom of the pic. The second layer is activated with the MOD 1 key on the far right when it is held down like shift. Arrows keys under my left thumb are a treat for programming and typing in general. My arms don't gets displaced like a normal keyboard, only my fingers move, so it's very comfortable and ergonomic.
 
-A in depth article I wrote of my keyboard, key layout, and shorcuts I use everywhere in case you are interested: [link](https://medium.com/@irisman/the-peak-programming-keyboard-and-key-layout-57cded217236)
+I wrote a in depth article of my keyboard, key layout, and shorcuts I use if you are interested: [link](https://medium.com/@irisman/the-peak-programming-keyboard-and-key-layout-57cded217236)
 
 2 quotes to end it off:
 
