@@ -41,6 +41,8 @@ I try to be logically rigorous and provide sources for my claims. I'm passionate
 For programming in particular, complexity is overwhelming when choosing what to use to build what idea. There's always tradeoffs to be made. Having those critical analysis skills has been valuable in this regard. I can know what tool to use for what job. And when a tool is overkill for a job. I've learn to start simple and minimize complexity. 
 
 ## A little more about me
+- Ideas - I'm someone with a lot of ideas. I have a lot of .md note files in a program called Obsidian, and whenever I think of a solution to a problem I face or see in my day to day, by making a website/app/chrome extension, I write it down in my ideas.md file so I don't forget. I have about 40-50 right now. Time limits me. 
+
 - Minimalism - quality over quantity. Better friends over more. Conciseness in speech, although as someone who likes detail, it can be hard to speak consisely at times. I aim for less physical possessions. Take Ikea for example. From their products to the outside packaging, everything is beautifully simple. 
 
 I read a quote from someone that said, "If you asked me to characterize my feelings about years spent building software in one phrase, I would have to quote Eugene Meyer's law "It Is Simple To Make Things Complex, But Complex To Make Things Simple". Minimalism and programming is a beautiful marriage.
