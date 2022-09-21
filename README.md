@@ -45,15 +45,15 @@ For programming in particular, complexity is overwhelming when choosing what to 
 
 - Minimalism - quality over quantity. Better friends over more. Conciseness in speech, although as someone who likes detail, it can be hard to speak consisely at times. I aim for less physical possessions. Take Ikea for example. From their products to the outside packaging, everything is beautifully simple. 
 
-I read a quote from someone that said, "If you asked me to characterize my feelings about years spent building software in one phrase, I would have to quote Eugene Meyer's law "It Is Simple To Make Things Complex, But Complex To Make Things Simple". Minimalism and programming is a beautiful marriage.
+- I read a quote from a experienced developer, "If you asked me to characterize my feelings about years spent building software in one phrase, I would have to quote Eugene Meyer's law "It Is Simple To Make Things Complex, But Complex To Make Things Simple". So minimalism and programming make a beautiful marriage.
 
-- Never Bored - I cannot remember the last time I got bored. There is always an article I have on to read list or a thing to learn on my to learn list. The amount of things I want to do and learn outstrip available time.
+- Never Bored - I cannot remember the last time I got bored. There is always an article on my to-read list or a course on my to-learn list. The amount of things I want to read and learn outstrip available time.
 
-- Social - In the second half of third year, Dec-Apr 2022, I reached out to 15 random classmates. They were from my programming classes held online on zoom during the end of the pandemic so I could see their name when they talked in the text chat. These classmates were actively asking questions in class or on the class discussion board outside of class. I emailed them based off their name and arranged up a zoom chat. I asked to talk about school, programming, and internships. I had interesting 1-2 hour conversations with each one, about the topics mentioned and some random things as well casually. I like asking questions and knowing about people's thoughts and perspectives.
-
-- Organized - I like to extract order from chaos. To make things in a logical manner, physically and virtually. Biggest example - I make my bed every morning, lol. You'll see more about this in my desk setup below.
+- Social - In the second half of third year, Dec-Apr 2022, I reached out to 15 random classmates. They were from my programming classes held online on zoom during the the pandemic so I could see their names when they talked in the zoom chat during class. These classmates were actively asking questions in class or on the class discussion board outside of class. I emailed them and arranged a zoom chat. I asked to talk about school, programming, and internships. I had interesting 1-2 hour conversations with each one, about the topics mentioned and some random things as well casually. I like asking questions and knowing about people's thoughts and perspectives.
 
 - History nerd - Passionate about history because it gives me perspective on why things are the way they are now. How nations formed. How people used to live. How technologies innovated. Am subscribed to many high quality channels on youtube, have watched a couple hundred hours so far. Voices of the past is one of my favorites since it has detailed first person accounts.
+
+- Organized - I like to extract order from chaos. To make things in a logical manner, physically and virtually. It's one way I acheive efficiency. Biggest example - I make my bed every morning lol. And you'll see a concrete example in my desk setup below.
 
 ## My Desk Setup
 
