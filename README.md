@@ -30,15 +30,15 @@ I learnt how many complex things worked, like an A/C, engines, toilets, pumps, e
 I enjoy reading interesting articles. Many, many hours spent doing so. There are some intelligent people out there with some great insights to share. You can check out some saved in my collection [here](https://github.com/kleenkanteen/interesting-articles).
 
 ## Being a debater
-I enjoyed grade 12 english and I think I did well, my teacher gave me a solid review on my report card. She also made the class interesting so I was challenged. Lots of text analysis and argument making. There was a mock debate part at the end about certain topics and we were given roles. I was the immigration minister of Canada, guy had an interesting story.
+I enjoyed grade 12 english and I think I did well, my teacher gave me a solid review on my report card. She also made the class interesting so I was challenged. Lots of text analysis and argument making. There was a mock debate part at the end about certain topics and we were given roles. I was the role of the immigration minister, guy had an interesting story.
 
 If you ask my friends, they'll say I will argue about something if I disagree. This requires boldness also. I'm detailed so I'll disect an argument and belief and question someone about how they got there. On youtube there's something I like watching called Street Epistemology. First search result on youtube of it will bring up the guy who does it. I don't believe things blindly, I'll ask for sources. 
 
-I only use reddit, no instagram at all, since reddit is a text heavy platform while instagram doens't even let you make text posts. On reddit I have long form convos with people and ask them a question and get a detailed written responses back. Many times I've gotten interesting, multi paragraph long responses back. 
+I only use reddit, no instagram at all, since reddit is a text heavy platform while instagram doens't even let you make text posts. On reddit I had long form convos with people on programming and philosophy with detailed, multi paragraph written responses.
 
 I try to be logically rigorous and provide sources for my claims. I'm passionate about finding the truth and having evidence based beliefs, so I've deveploped my debate and questioning skills to aid me in that pursuit.
 
-For programming in particular, complexity is overwhelming when choosing what to use to build what idea. There's always tradeoffs to be made. Having those critical analysis skills has been valuable in this regard. I can know what tool to use for what job. And when a tool is overkill for a job. I've learn to start simple and minimize complexity. 
+For programming in particular, complexity is overwhelming when choosing what to use to build what idea. There's always tradeoffs to be made. Having those critical analysis skills has been valuable in this regard. I can know what tool to use for what job. And when a tool is overkill for a job. I've learn to start simple and minimize complexity.
 
 ## A little more about me
 - Ideas - I'm someone with a lot of ideas. I have a lot of .md note files in a program called Obsidian, and whenever I think of a solution to a problem I face or see in my day to day, by making a website/app/chrome extension, I write it down in my ideas.md file so I don't forget. I have about 40-50 right now. Time limits me. 
@@ -64,6 +64,10 @@ My desk:
 My keyboard:
 
 ![keyboard v3](https://user-images.githubusercontent.com/67878058/184403492-36d28064-54f2-4e7b-86cf-1393223dbe3b.jpg)
+
+As you can see with my unusual keyboard and layout, I can be a nonconformist at times. I think through about things and form my own opinions. And sometimes I may look odd. But I put my values and thinking over what others believe. 
+
+To innovate, you have to think different. Thinking from different perspectives permeates my thinking style. 
 
 My key layout, iterated and improved it around 15 times before settling on this one, I don't use QWERTY also, I switched right I got the keyboard July 2021. I use Colemak-DH as my fingers move about 50% of the distance due to the high frequency keys being on the home row. The distance calculations I read online of the full ergonomic analysis get pretty complex:
 
