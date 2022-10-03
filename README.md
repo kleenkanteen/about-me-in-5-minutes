@@ -26,11 +26,9 @@ I learnt how many complex things worked, like an A/C, engines, toilets, pumps, e
 I enjoy reading interesting articles. Many, many hours spent doing so. There are some intelligent people out there with some great insights to share. You can check out some saved in my collection [here](https://github.com/kleenkanteen/interesting-articles).
 
 ## Being a debater
-She also made the class interesting so I was challenged. Lots of text analysis and argument making. There was a mock debate part at the end about certain topics and we were given roles. I was the role of the immigration minister, guy had an interesting story.
+If you ask my friends, they'll say I will argue about something if I disagree. This requires boldness also. I'm detailed so I'll disect an argument and belief and question someone about how they got there. On youtube there's a channel I enjoy watching called Street Epistemology. First search result on youtube of it will bring up the guy who does it. I don't believe things blindly, I'll ask for sources. 
 
-If you ask my friends, they'll say I will argue about something if I disagree. This requires boldness also. I'm detailed so I'll disect an argument and belief and question someone about how they got there. On youtube there's something I like watching called Street Epistemology. First search result on youtube of it will bring up the guy who does it. I don't believe things blindly, I'll ask for sources. 
-
-I only use reddit, no instagram at all, since reddit is a text heavy platform while instagram doens't even let you make text posts. On reddit I had long form convos with people on programming and philosophy with detailed, multi paragraph written responses.
+I only use reddit, no instagram at all, since reddit is a text heavy platform while instagram doens't even let you make text posts. On reddit I had long form convos with people on programming and philosophy and anything with detailed, multi paragraph written responses.
 
 I try to be logically rigorous and provide sources for my claims. I'm passionate about finding the truth and having evidence based beliefs, so I've deveploped my debate and questioning skills to aid me in that pursuit.
 
