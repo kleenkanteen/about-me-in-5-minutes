@@ -4,7 +4,7 @@ I'll do a thorough character analysis of myself in this article.
 
 Don't be afraid to voice your disagreement, concerns, and in asking questions. Fortune favors the bold.
 
-Both within university classes and in my first ever internship (and programming job), as a full stack developer (doing currently), I'm vocal and constantly asking questions.
+Both within university classes and in my first ever internship (and programming job), as a full stack developer (doing currently), I'm vocal and constantly asking questions. I'm someone who doesn't care what others think. Sure, constructive feedback I take notice of. But caring about what others think when doing something necessary isn't something I do. Requires a thick skin. Life's about making my own beliefs and charting my own path; not following others. 
 
 --
 
