@@ -1,8 +1,9 @@
 ## My motto: Be bold, be curious. 
 
-Don't be afraid to voice your concerns or to ask questions. Fortune favors the bold.
+Don't be afraid to voice your concerns or to ask questions. Fortune favors the bold. 
 
 And be curious. Not enough people ask enough questions. Too many pepole stick to the defaults when it comes to opinions or even their computer settings. “Rarely do we find people who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think.” - Martin Luther King Jr.
+
 --
 
 ## A little more about me
