@@ -1,27 +1,27 @@
 ## My motto: Be bold, be curious. 
 
-Don't be afraid to voice your concerns or to ask questions. Fortune favors the bold. 
+Don't be afraid to voice your concerns or to ask questions. Fortune favors the bold!
 
-And be curious. Not enough people ask enough questions. Too many pepole stick to the defaults when it comes to opinions or even their computer settings. “Rarely do we find people who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think.” - Martin Luther King Jr.
+And be curious. Not enough people ask enough questions. Too many pepole stick to the defaults when it comes to opinions or even their computer settings. Because it's hard to think. “Rarely do we find people who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think.” - Martin Luther King Jr.
 
 --
 
 ## A little more about me
-- Bold: not afraid to speak up. Innate within me I guess.
+- Bold: not afraid to speak up.
 
-- Resourceful: I will ask and google to learn what I need. Helped me a lot in school when the professor (usually) can't teach well.
+- Resourceful: I'll ask and google to learn something I am interested in. Helped me a lot in school when the taecher/professor (usually) can't teach. I've found good teachers to be rare.
 
-- Curious: I like asking questions because I like knowing what's behind the curtains :)
+- Curious: I like asking questions because I like knowing what's behind the curtains.
 
-- Debating: I'm opioniated. I try to think of why things happen around me. And what's the ideal way to live.
+- Critical thinkin: I'm opinionated. I think of why things happen, why people do certain things. And what's the ideal way to live.
 
-- History nerd: My curiosity ties into this. I like knowing how others used to live. How our world came to be. Humans are one bloody mess.
+- History nerd: I like knowing how others used to live. How did our world came to be? How did the computer and programming languages develop?
 
-- Ideas - I have a lot of ideas. I use Obisidan for notes with a lot of markdown files. One file for project ideas has around 100 ideas. So many ideas, so little time.
+- Ideas - I have a lot of ideas. I use Obsidian for writing my notes using markdown files. One file I have for project ideas has around 100 ideas. So many ideas, so little time.
 
-- Minimalism - quality over quantity. I buy as little as possible. What makes life good is not the material but the immaterial.
+- Minimalism - quality over quantity. I buy as little as possible. What makes life good is not the material, but the immaterial.
 
-- Organized - I like order. To make things in a logical manner, physically and virtually. Simple example: I make my bad.
+- Organized - I like order. Having things in a logical manner, physically and virtually. Simple example: I make my bed after waking up.
 
 ## My Desk Setup
 
@@ -61,4 +61,4 @@ And this one is about having the right values. That's why I like open source, th
 
 "What makes a winning team, "Many U.S. sports fans agree that the greatest victory in this country’s history was when a group of unknown college kids, led by head coach Herb Brooks, stunned the Soviets 4-3 in the 1980 Winter Olympics and went on to win the gold medal in ice hockey. When asked how he assembled the team, as well as his University of Minnesota hockey teams (Brooks had taken Minnesota from a perpetual doormat to winning three Division 1 National Championships in 7 years), Brooks responded, “The key to my recruiting was that I looked for people first, athletes second. I wanted people with sound value systems because you cannot buy values. You are only as good as your values. I learned early on that you do not put greatness into people…but somehow try to pull it out.” - [https://www.collaborativefund.com/blog/the-locker-room](https://www.collaborativefund.com/blog/the-locker-room)
 
-Hope this gave a good glimpse of me. Thanks for reading.
+Hope this gave a good glimpse of me. Thanks for reading!
