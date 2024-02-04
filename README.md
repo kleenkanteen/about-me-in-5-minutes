@@ -13,11 +13,11 @@ And be curious. Not enough people ask enough questions. Too many pepole stick to
 
 - Curious: I like asking questions because I like knowing what's behind the curtains.
 
-- Critical thinkin: I'm opinionated. I think of why things happen, why people do certain things. And what's the ideal way to live.
+- Critical thinker: I'm opinionated. I think of why things happen, why people do certain things. And what's the ideal way to live.
 
 - History nerd: I like knowing how others used to live. How did our world came to be? How did the computer and programming languages develop?
 
-- Ideas - I have a lot of ideas. I use Obsidian for writing my notes using markdown files. One file I have for project ideas has around 100 ideas. So many ideas, so little time.
+- Ideas - I have a lot of ideas I want to make. I use Obsidian for writing my notes using markdown files. I have about 100 ideas written down in one file. So many ideas, so little time.
 
 - Minimalism - quality over quantity. I buy as little as possible. What makes life good is not the material, but the immaterial.
 
