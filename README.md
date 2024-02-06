@@ -7,11 +7,7 @@ And be curious. Not enough people ask enough questions. Too many pepole stick to
 --
 
 ## A little more about me
-- Bold: not afraid to speak up.
-
 - Resourceful: I'll ask and google to learn something I am interested in. Helped me a lot in school when the taecher/professor (usually) can't teach. I've found good teachers to be rare.
-
-- Curious: I like asking questions because I like knowing what's behind the curtains.
 
 - Critical thinker: I'm opinionated. I think of why things happen, why people do certain things. And what's the ideal way to live.
 
